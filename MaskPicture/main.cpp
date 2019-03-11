@@ -21,7 +21,7 @@ int main() {
 	IMAGE src;
 	IMAGE bg;
 	loadimage(&bg, _T("E:\\C_code\\Project2\\Project2\\picture\\bg.jpg"));
-	loadimage(&src, _T("E:\\C_code\\Project2\\11000009.jpg"));
+	loadimage(&src, _T("E:\\C_code\\Project2\\Piskel\\Cat.gif"));
 
 	BeginBatchDraw();
 
