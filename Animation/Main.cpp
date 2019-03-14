@@ -28,6 +28,7 @@ int main() {
 	while (1)
 	{
 		animation();
+
 		seed++;
 		Sleep(20);
 	}
